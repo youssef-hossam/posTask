@@ -1,0 +1,1 @@
+String kStockBox = 'StockItemBox';
